@@ -1,0 +1,44 @@
+For the build instructions......
+1. Create a Type that is one line of the build instructions
+Type BuildInst_OneLine
+     Description       String
+     Module             Integer
+     Pin                    Integer
+     Color                *****          (we could either store the hex color value or integer for our custom list)
+     Trigger              Integer     (index to our custom list of trigger conditions)
+End Type
+
+2. Create an array of BuildInst_OneLine
+I forget the syntax, but it would be something like....
+Dim BuildInst( ) as BuildInst_OneLine
+
+The Index to array BuildInst would be (step # - 1).  So the build instructions for step #1 would be.....
+BuildInst[0].Description
+BuildInst[0].Module
+BuildInst[0].Pin
+BuildInst[0].Color
+BuildInst[0].Trigger
+
+
+For the remaining part data, I would either create separate variables or combine everything with a Type structure.
+1. Separate
+PartNumber, Slot1, Slot2, Slot3, Slot4, Slot5, Slot6    (all as strings)
+Continuity(next button), Tug(previous)    (all as boolean)
+
+2. As a Type structure
+Type PartData
+     PN                    String
+     Slot1                 String
+     Slot2                 String
+     Slot3                 String
+     Slot4                 String
+     Slot5                 String
+     Slot6                 String
+     Continuity         Boolean
+     TugTest            Boolean
+     BuildInst           BuildInst      (the array of build instructions)
+End Type
+
+
+If the type structure is used, everything is compact, but has longer variable names.  A build instruction element would be something like.....
+PartData.BuildInst[2].Description     (screen description for step #3)

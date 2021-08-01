@@ -1,0 +1,160 @@
+C:\Users\user\Desktop\Projects\New folder\new_jk\new_jk\bin\Debug\new_jk.exe.config
+C:\Users\user\Desktop\Projects\New folder\new_jk\new_jk\bin\Debug\new_jk.exe
+C:\Users\user\Desktop\Projects\New folder\new_jk\new_jk\bin\Debug\new_jk.pdb
+C:\Users\user\Desktop\Projects\New folder\new_jk\new_jk\bin\Debug\new_jk.xml
+C:\Users\user\Desktop\Projects\New folder\new_jk\new_jk\obj\Debug\new_jk.Form1.resources
+C:\Users\user\Desktop\Projects\New folder\new_jk\new_jk\obj\Debug\new_jk.Resources.resources
+C:\Users\user\Desktop\Projects\New folder\new_jk\new_jk\obj\Debug\new_jk.vbproj.GenerateResource.Cache
+C:\Users\user\Desktop\Projects\New folder\new_jk\new_jk\obj\Debug\new_jk.exe
+C:\Users\user\Desktop\Projects\New folder\new_jk\new_jk\obj\Debug\new_jk.xml
+C:\Users\user\Desktop\Projects\New folder\new_jk\new_jk\obj\Debug\new_jk.pdb
+C:\Users\user\Desktop\Projects\New folder\new_jk\new_jk\obj\Debug\new_jk.Startpanel.resources
+C:\Users\user\Desktop\Projects\New folder\new_jk\new_jk\obj\Debug\new_jk.step2.resources
+C:\Users\user\Desktop\Projects\New folder\new_jk\new_jk\obj\Debug\new_jk.step3.resources
+C:\Users\user\Desktop\Projects\New folder\new_jk\new_jk\obj\Debug\new_jk.step4.resources
+C:\Users\user\Desktop\Projects\New folder\new_jk\new_jk\obj\Debug\new_jk.step5.resources
+C:\Users\user\Desktop\Projects\New folder\new_jk\new_jk\obj\Debug\new_jk.step6.resources
+C:\Users\user\Desktop\Projects\New folder\new_jk\new_jk\obj\Debug\new_jk.Home.resources
+C:\Users\user\Desktop\Projects\poke assistant\new_jk\bin\Debug\new_jk.exe.config
+C:\Users\user\Desktop\Projects\poke assistant\new_jk\bin\Debug\new_jk.exe
+C:\Users\user\Desktop\Projects\poke assistant\new_jk\bin\Debug\new_jk.pdb
+C:\Users\user\Desktop\Projects\poke assistant\new_jk\bin\Debug\new_jk.xml
+C:\Users\user\Desktop\Projects\poke assistant\new_jk\obj\Debug\new_jk.Form1.resources
+C:\Users\user\Desktop\Projects\poke assistant\new_jk\obj\Debug\new_jk.Home.resources
+C:\Users\user\Desktop\Projects\poke assistant\new_jk\obj\Debug\new_jk.Resources.resources
+C:\Users\user\Desktop\Projects\poke assistant\new_jk\obj\Debug\new_jk.Startpanel.resources
+C:\Users\user\Desktop\Projects\poke assistant\new_jk\obj\Debug\new_jk.step2.resources
+C:\Users\user\Desktop\Projects\poke assistant\new_jk\obj\Debug\new_jk.step3.resources
+C:\Users\user\Desktop\Projects\poke assistant\new_jk\obj\Debug\new_jk.step4.resources
+C:\Users\user\Desktop\Projects\poke assistant\new_jk\obj\Debug\new_jk.step5.resources
+C:\Users\user\Desktop\Projects\poke assistant\new_jk\obj\Debug\new_jk.step6.resources
+C:\Users\user\Desktop\Projects\poke assistant\new_jk\obj\Debug\new_jk.vbproj.GenerateResource.cache
+C:\Users\user\Desktop\Projects\poke assistant\new_jk\obj\Debug\new_jk.exe
+C:\Users\user\Desktop\Projects\poke assistant\new_jk\obj\Debug\new_jk.xml
+C:\Users\user\Desktop\Projects\poke assistant\new_jk\obj\Debug\new_jk.pdb
+C:\Users\user\Desktop\Projects\poke assistant\new_jk\bin\Debug\Telerik.WinControls.dll
+C:\Users\user\Desktop\Projects\poke assistant\new_jk\bin\Debug\Telerik.WinControls.UI.dll
+C:\Users\user\Desktop\Projects\poke assistant\new_jk\bin\Debug\TelerikCommon.dll
+C:\Users\user\Desktop\Projects\poke assistant\new_jk\bin\Debug\Telerik.WinControls.xml
+C:\Users\user\Desktop\Projects\poke assistant\new_jk\bin\Debug\Telerik.WinControls.UI.xml
+C:\Users\user\Desktop\Projects\poke assistant\new_jk\obj\Debug\new_jk.exe.licenses
+C:\Users\user\Desktop\Projects\poke assistant\new_jk\obj\Debug\new_jk.Step7.resources
+C:\Users\user\Desktop\Projects\poke assistant\new_jk\obj\Debug\new_jk.Step8.resources
+C:\Users\user\Desktop\Projects\poke assistant\new_jk\obj\Debug\new_jk.selection.resources
+C:\Users\user\Desktop\Projects\poke assistant\new_jk\obj\Debug\new_jk.vbprojResolveAssemblyReference.cache
+H:\Poke assist\poke_assist_simulation\poke assist 7-27-2021\poke assist 7-27-21\new_jk\bin\Debug\new_jk.exe.config
+H:\Poke assist\poke_assist_simulation\poke assist 7-27-2021\poke assist 7-27-21\new_jk\bin\Debug\new_jk.exe
+H:\Poke assist\poke_assist_simulation\poke assist 7-27-2021\poke assist 7-27-21\new_jk\bin\Debug\new_jk.pdb
+H:\Poke assist\poke_assist_simulation\poke assist 7-27-2021\poke assist 7-27-21\new_jk\bin\Debug\new_jk.xml
+H:\Poke assist\poke_assist_simulation\poke assist 7-27-2021\poke assist 7-27-21\new_jk\bin\Debug\Telerik.WinControls.xml
+H:\Poke assist\poke_assist_simulation\poke assist 7-27-2021\poke assist 7-27-21\new_jk\bin\Debug\Telerik.WinControls.UI.xml
+H:\Poke assist\poke_assist_simulation\poke assist 7-27-2021\poke assist 7-27-21\new_jk\obj\Debug\new_jk.vbproj.AssemblyReference.cache
+H:\Poke assist\poke_assist_simulation\poke assist 7-27-2021\poke assist 7-27-21\new_jk\obj\Debug\new_jk.Form1.resources
+H:\Poke assist\poke_assist_simulation\poke assist 7-27-2021\poke assist 7-27-21\new_jk\obj\Debug\new_jk.Home.resources
+H:\Poke assist\poke_assist_simulation\poke assist 7-27-2021\poke assist 7-27-21\new_jk\obj\Debug\new_jk.Resources.resources
+H:\Poke assist\poke_assist_simulation\poke assist 7-27-2021\poke assist 7-27-21\new_jk\obj\Debug\new_jk.selection.resources
+H:\Poke assist\poke_assist_simulation\poke assist 7-27-2021\poke assist 7-27-21\new_jk\obj\Debug\new_jk.Slot1.resources
+H:\Poke assist\poke_assist_simulation\poke assist 7-27-2021\poke assist 7-27-21\new_jk\obj\Debug\new_jk.Startpanel.resources
+H:\Poke assist\poke_assist_simulation\poke assist 7-27-2021\poke assist 7-27-21\new_jk\obj\Debug\new_jk.step2.resources
+H:\Poke assist\poke_assist_simulation\poke assist 7-27-2021\poke assist 7-27-21\new_jk\obj\Debug\new_jk.step3.resources
+H:\Poke assist\poke_assist_simulation\poke assist 7-27-2021\poke assist 7-27-21\new_jk\obj\Debug\new_jk.step4.resources
+H:\Poke assist\poke_assist_simulation\poke assist 7-27-2021\poke assist 7-27-21\new_jk\obj\Debug\new_jk.step5.resources
+H:\Poke assist\poke_assist_simulation\poke assist 7-27-2021\poke assist 7-27-21\new_jk\obj\Debug\new_jk.Step6.resources
+H:\Poke assist\poke_assist_simulation\poke assist 7-27-2021\poke assist 7-27-21\new_jk\obj\Debug\new_jk.Step7.resources
+H:\Poke assist\poke_assist_simulation\poke assist 7-27-2021\poke assist 7-27-21\new_jk\obj\Debug\new_jk.Step8.resources
+H:\Poke assist\poke_assist_simulation\poke assist 7-27-2021\poke assist 7-27-21\new_jk\obj\Debug\new_jk.vbproj.GenerateResource.cache
+H:\Poke assist\poke_assist_simulation\poke assist 7-27-2021\poke assist 7-27-21\new_jk\obj\Debug\new_jk.exe.licenses
+H:\Poke assist\poke_assist_simulation\poke assist 7-27-2021\poke assist 7-27-21\new_jk\obj\Debug\new_jk.vbproj.CoreCompileInputs.cache
+H:\Poke assist\poke_assist_simulation\poke assist 7-27-2021\poke assist 7-27-21\new_jk\obj\Debug\new_jk.vbproj.CopyComplete
+H:\Poke assist\poke_assist_simulation\poke assist 7-27-2021\poke assist 7-27-21\new_jk\obj\Debug\new_jk.exe
+H:\Poke assist\poke_assist_simulation\poke assist 7-27-2021\poke assist 7-27-21\new_jk\obj\Debug\new_jk.xml
+H:\Poke assist\poke_assist_simulation\poke assist 7-27-2021\poke assist 7-27-21\new_jk\obj\Debug\new_jk.pdb
+H:\Poke assist\poke_assist_simulation\poke assist 7-27-2021\poke assist 7-27-21\new_jk\obj\Debug\new_jk.Slot2.resources
+C:\Users\user\Desktop\Projects\poke assist 7-27-2021\poke assist 7-27-21\new_jk\bin\Debug\new_jk.exe.config
+C:\Users\user\Desktop\Projects\poke assist 7-27-2021\poke assist 7-27-21\new_jk\obj\Debug\new_jk.exe
+C:\Users\user\Desktop\Projects\poke assist 7-27-2021\poke assist 7-27-21\new_jk\obj\Debug\new_jk.xml
+C:\Users\user\Desktop\Projects\poke assist 7-27-2021\poke assist 7-27-21\new_jk\obj\Debug\new_jk.pdb
+C:\Users\user\Desktop\Projects\poke assist 7-27-2021\poke assist 7-27-21\new_jk\bin\Debug\new_jk.exe
+C:\Users\user\Desktop\Projects\poke assist 7-27-2021\poke assist 7-27-21\new_jk\bin\Debug\new_jk.pdb
+C:\Users\user\Desktop\Projects\poke assist 7-27-2021\poke assist 7-27-21\new_jk\bin\Debug\new_jk.xml
+C:\Users\user\Desktop\Projects\poke assist 7-27-2021\poke assist 7-27-21\new_jk\bin\Debug\Telerik.WinControls.dll
+C:\Users\user\Desktop\Projects\poke assist 7-27-2021\poke assist 7-27-21\new_jk\bin\Debug\Telerik.WinControls.UI.dll
+C:\Users\user\Desktop\Projects\poke assist 7-27-2021\poke assist 7-27-21\new_jk\bin\Debug\TelerikCommon.dll
+C:\Users\user\Desktop\Projects\poke assist 7-27-2021\poke assist 7-27-21\new_jk\bin\Debug\Telerik.WinControls.xml
+C:\Users\user\Desktop\Projects\poke assist 7-27-2021\poke assist 7-27-21\new_jk\bin\Debug\Telerik.WinControls.UI.xml
+C:\Users\user\Desktop\Projects\poke assist 7-27-2021\poke assist 7-27-21\new_jk\obj\Debug\new_jk.Form1.resources
+C:\Users\user\Desktop\Projects\poke assist 7-27-2021\poke assist 7-27-21\new_jk\obj\Debug\new_jk.Home.resources
+C:\Users\user\Desktop\Projects\poke assist 7-27-2021\poke assist 7-27-21\new_jk\obj\Debug\new_jk.Resources.resources
+C:\Users\user\Desktop\Projects\poke assist 7-27-2021\poke assist 7-27-21\new_jk\obj\Debug\new_jk.selection.resources
+C:\Users\user\Desktop\Projects\poke assist 7-27-2021\poke assist 7-27-21\new_jk\obj\Debug\new_jk.Slot1.resources
+C:\Users\user\Desktop\Projects\poke assist 7-27-2021\poke assist 7-27-21\new_jk\obj\Debug\new_jk.Slot2.resources
+C:\Users\user\Desktop\Projects\poke assist 7-27-2021\poke assist 7-27-21\new_jk\obj\Debug\new_jk.Startpanel.resources
+C:\Users\user\Desktop\Projects\poke assist 7-27-2021\poke assist 7-27-21\new_jk\obj\Debug\new_jk.step2.resources
+C:\Users\user\Desktop\Projects\poke assist 7-27-2021\poke assist 7-27-21\new_jk\obj\Debug\new_jk.step3.resources
+C:\Users\user\Desktop\Projects\poke assist 7-27-2021\poke assist 7-27-21\new_jk\obj\Debug\new_jk.step4.resources
+C:\Users\user\Desktop\Projects\poke assist 7-27-2021\poke assist 7-27-21\new_jk\obj\Debug\new_jk.step5.resources
+C:\Users\user\Desktop\Projects\poke assist 7-27-2021\poke assist 7-27-21\new_jk\obj\Debug\new_jk.Step6.resources
+C:\Users\user\Desktop\Projects\poke assist 7-27-2021\poke assist 7-27-21\new_jk\obj\Debug\new_jk.Step7.resources
+C:\Users\user\Desktop\Projects\poke assist 7-27-2021\poke assist 7-27-21\new_jk\obj\Debug\new_jk.Step8.resources
+C:\Users\user\Desktop\Projects\poke assist 7-27-2021\poke assist 7-27-21\new_jk\obj\Debug\new_jk.vbproj.GenerateResource.Cache
+C:\Users\user\Desktop\Projects\poke assist 7-27-2021\poke assist 7-27-21\new_jk\obj\Debug\new_jk.exe.licenses
+C:\Users\user\Desktop\Projects\poke assist 7-27-2021\poke assist 7-27-21\new_jk\obj\Debug\new_jk.vbproj.ResolveComReference.cache
+C:\Users\user\Desktop\Projects\poke assist 7-27-2021\poke assist 7-27-21\new_jk\obj\Debug\new_jk.vbprojResolveAssemblyReference.cache
+C:\Users\REX-PC\Desktop\poke assist 7-27-2021\poke assist 7-27-21\new_jk\bin\Debug\new_jk.exe.config
+C:\Users\REX-PC\Desktop\poke assist 7-27-2021\poke assist 7-27-21\new_jk\bin\Debug\new_jk.exe
+C:\Users\REX-PC\Desktop\poke assist 7-27-2021\poke assist 7-27-21\new_jk\bin\Debug\new_jk.pdb
+C:\Users\REX-PC\Desktop\poke assist 7-27-2021\poke assist 7-27-21\new_jk\bin\Debug\new_jk.xml
+C:\Users\REX-PC\Desktop\poke assist 7-27-2021\poke assist 7-27-21\new_jk\bin\Debug\Telerik.WinControls.xml
+C:\Users\REX-PC\Desktop\poke assist 7-27-2021\poke assist 7-27-21\new_jk\bin\Debug\Telerik.WinControls.UI.xml
+C:\Users\REX-PC\Desktop\poke assist 7-27-2021\poke assist 7-27-21\new_jk\obj\Debug\new_jk.vbprojAssemblyReference.cache
+C:\Users\REX-PC\Desktop\poke assist 7-27-2021\poke assist 7-27-21\new_jk\obj\Debug\new_jk.vbproj.ResolveComReference.cache
+C:\Users\REX-PC\Desktop\poke assist 7-27-2021\poke assist 7-27-21\new_jk\obj\Debug\new_jk.Form1.resources
+C:\Users\REX-PC\Desktop\poke assist 7-27-2021\poke assist 7-27-21\new_jk\obj\Debug\new_jk.Home.resources
+C:\Users\REX-PC\Desktop\poke assist 7-27-2021\poke assist 7-27-21\new_jk\obj\Debug\new_jk.Resources.resources
+C:\Users\REX-PC\Desktop\poke assist 7-27-2021\poke assist 7-27-21\new_jk\obj\Debug\new_jk.selection.resources
+C:\Users\REX-PC\Desktop\poke assist 7-27-2021\poke assist 7-27-21\new_jk\obj\Debug\new_jk.Slot1.resources
+C:\Users\REX-PC\Desktop\poke assist 7-27-2021\poke assist 7-27-21\new_jk\obj\Debug\new_jk.Slot2.resources
+C:\Users\REX-PC\Desktop\poke assist 7-27-2021\poke assist 7-27-21\new_jk\obj\Debug\new_jk.Startpanel.resources
+C:\Users\REX-PC\Desktop\poke assist 7-27-2021\poke assist 7-27-21\new_jk\obj\Debug\new_jk.step2.resources
+C:\Users\REX-PC\Desktop\poke assist 7-27-2021\poke assist 7-27-21\new_jk\obj\Debug\new_jk.step3.resources
+C:\Users\REX-PC\Desktop\poke assist 7-27-2021\poke assist 7-27-21\new_jk\obj\Debug\new_jk.step4.resources
+C:\Users\REX-PC\Desktop\poke assist 7-27-2021\poke assist 7-27-21\new_jk\obj\Debug\new_jk.step5.resources
+C:\Users\REX-PC\Desktop\poke assist 7-27-2021\poke assist 7-27-21\new_jk\obj\Debug\new_jk.Step6.resources
+C:\Users\REX-PC\Desktop\poke assist 7-27-2021\poke assist 7-27-21\new_jk\obj\Debug\new_jk.Step7.resources
+C:\Users\REX-PC\Desktop\poke assist 7-27-2021\poke assist 7-27-21\new_jk\obj\Debug\new_jk.Step8.resources
+C:\Users\REX-PC\Desktop\poke assist 7-27-2021\poke assist 7-27-21\new_jk\obj\Debug\new_jk.vbproj.GenerateResource.cache
+C:\Users\REX-PC\Desktop\poke assist 7-27-2021\poke assist 7-27-21\new_jk\obj\Debug\new_jk.exe.licenses
+C:\Users\REX-PC\Desktop\poke assist 7-27-2021\poke assist 7-27-21\new_jk\obj\Debug\new_jk.vbproj.CoreCompileInputs.cache
+C:\Users\REX-PC\Desktop\poke assist 7-27-2021\poke assist 7-27-21\new_jk\obj\Debug\new_jk.vbproj.CopyComplete
+C:\Users\REX-PC\Desktop\poke assist 7-27-2021\poke assist 7-27-21\new_jk\obj\Debug\new_jk.exe
+C:\Users\REX-PC\Desktop\poke assist 7-27-2021\poke assist 7-27-21\new_jk\obj\Debug\new_jk.xml
+C:\Users\REX-PC\Desktop\poke assist 7-27-2021\poke assist 7-27-21\new_jk\obj\Debug\new_jk.pdb
+C:\Users\Roland\Downloads\poke assist 8-1-21\new_jk\bin\Debug\new_jk.exe.config
+C:\Users\Roland\Downloads\poke assist 8-1-21\new_jk\bin\Debug\new_jk.exe
+C:\Users\Roland\Downloads\poke assist 8-1-21\new_jk\bin\Debug\new_jk.pdb
+C:\Users\Roland\Downloads\poke assist 8-1-21\new_jk\bin\Debug\new_jk.xml
+C:\Users\Roland\Downloads\poke assist 8-1-21\new_jk\bin\Debug\Telerik.WinControls.xml
+C:\Users\Roland\Downloads\poke assist 8-1-21\new_jk\bin\Debug\Telerik.WinControls.UI.xml
+C:\Users\Roland\Downloads\poke assist 8-1-21\new_jk\obj\Debug\new_jk.vbproj.AssemblyReference.cache
+C:\Users\Roland\Downloads\poke assist 8-1-21\new_jk\obj\Debug\new_jk.vbproj.ResolveComReference.cache
+C:\Users\Roland\Downloads\poke assist 8-1-21\new_jk\obj\Debug\new_jk.Form1.resources
+C:\Users\Roland\Downloads\poke assist 8-1-21\new_jk\obj\Debug\new_jk.Home.resources
+C:\Users\Roland\Downloads\poke assist 8-1-21\new_jk\obj\Debug\new_jk.Resources.resources
+C:\Users\Roland\Downloads\poke assist 8-1-21\new_jk\obj\Debug\new_jk.selection.resources
+C:\Users\Roland\Downloads\poke assist 8-1-21\new_jk\obj\Debug\new_jk.Slot1.resources
+C:\Users\Roland\Downloads\poke assist 8-1-21\new_jk\obj\Debug\new_jk.Slot2.resources
+C:\Users\Roland\Downloads\poke assist 8-1-21\new_jk\obj\Debug\new_jk.Startpanel.resources
+C:\Users\Roland\Downloads\poke assist 8-1-21\new_jk\obj\Debug\new_jk.step2.resources
+C:\Users\Roland\Downloads\poke assist 8-1-21\new_jk\obj\Debug\new_jk.step3.resources
+C:\Users\Roland\Downloads\poke assist 8-1-21\new_jk\obj\Debug\new_jk.step4.resources
+C:\Users\Roland\Downloads\poke assist 8-1-21\new_jk\obj\Debug\new_jk.step5.resources
+C:\Users\Roland\Downloads\poke assist 8-1-21\new_jk\obj\Debug\new_jk.Step6.resources
+C:\Users\Roland\Downloads\poke assist 8-1-21\new_jk\obj\Debug\new_jk.Step7.resources
+C:\Users\Roland\Downloads\poke assist 8-1-21\new_jk\obj\Debug\new_jk.Step8.resources
+C:\Users\Roland\Downloads\poke assist 8-1-21\new_jk\obj\Debug\new_jk.vbproj.GenerateResource.cache
+C:\Users\Roland\Downloads\poke assist 8-1-21\new_jk\obj\Debug\new_jk.exe.licenses
+C:\Users\Roland\Downloads\poke assist 8-1-21\new_jk\obj\Debug\new_jk.vbproj.CoreCompileInputs.cache
+C:\Users\Roland\Downloads\poke assist 8-1-21\new_jk\obj\Debug\new_jk.vbproj.CopyComplete
+C:\Users\Roland\Downloads\poke assist 8-1-21\new_jk\obj\Debug\new_jk.exe
+C:\Users\Roland\Downloads\poke assist 8-1-21\new_jk\obj\Debug\new_jk.xml
+C:\Users\Roland\Downloads\poke assist 8-1-21\new_jk\obj\Debug\new_jk.pdb
