@@ -1,0 +1,136 @@
+Imports Excel = Microsoft.Office.Interop.Excel
+Imports System.Data.OleDb
+
+Public Class selection
+    Private Sub Button1_Click(sender As Object, e As EventArgs)
+
+    End Sub
+
+    Private Sub selection_Load(sender As Object, e As EventArgs) Handles MyBase.Load
+
+    End Sub
+
+    Private Sub Button1_Click_1(sender As Object, e As EventArgs) Handles Button1.Click
+        Dim cn As New OleDbConnection
+        Dim cm As New OleDbCommand
+
+        cn.ConnectionString = "provider=microsoft.jet.oledb.4.0;data source =O:\design\Connect to Excel\build.xlsx;extended properties=excel 8.0;"
+        cn.Open()
+        Dim xlWorkBook As Excel.Workbook
+        Dim xlWorkSheet As Excel.Worksheet
+
+        Dim xlApp As Excel.Application = New Excel.Application()
+        xlWorkBook = xlApp.Workbooks.Open("C:\Users\user\Desktop\Projects\poke assist 7-27-2021\poke assist 7-27-21\build.xlsx")
+        xlWorkSheet = xlWorkBook.Worksheets("sheet1")
+
+
+        Module1.PartDataType()
+
+        Dim sPN = xlWorkSheet.Cells(1, 2)
+        Dim sSlot1 = xlWorkSheet.Cells(3, 2)
+        Dim sSlot2 = xlWorkSheet.Cells(4, 2)
+        Dim sSlot3 = xlWorkSheet.Cells(5, 2)
+        Dim sSlot4 = xlWorkSheet.Cells(6, 2)
+        Dim sSlot5 = xlWorkSheet.Cells(7, 2)
+        Dim sSlot6 = xlWorkSheet.Cells(8, 2)
+
+        Dim bContinuity = xlWorkSheet.Cells(10, 2).value.ToString
+        Dim bTugTest = xlWorkSheet.Cells(11, 2).value.ToString
+
+
+        If sSlot1.IsEmpty() Then
+            sSlot1.ToString()
+        End If
+        If sSlot2.IsEmpty() Then
+            sSlot2.ToString()
+        End If
+        If sSlot3.IsEmpty() Then
+            sSlot3.ToString()
+        End If
+        If sSlot4.IsEmpty() Then
+            sSlot4.ToString()
+
+        End If
+
+        If sSlot5.IsEmpty() Then
+            sSlot5.ToString()
+        End If
+        If sSlot6.IsEmpty() Then
+            sSlot6.ToString()
+        End If
+
+        If bContinuity = xlWorkSheet.Cells(10, 2).value.ToString = True Then
+            MsgBox("Continuity value in the part's Excel file is invalid.")
+        End If
+        If bTugTest = xlWorkSheet.Cells(11, 2).value.ToString = True Then
+            MsgBox("TugTest value in the part's Excel file is invalid.")
+        End If
+
+
+        releaseObject(xlApp)
+        releaseObject(xlWorkBook)
+        releaseObject(xlWorkSheet)
+
+        Module1.BuildInst_OneLine()
+
+        Dim sDescription = xlWorkSheet.Cells(17, 2)
+        If sDescription.IsEmpty() Then
+            Dim inst As Integer
+            For inst = 18 To 21 Step 1 'Iterate through all instruction in the Excel worksheet
+                xlWorkSheet.Cells(10, 2).value.ToString()
+                inst = inst + 1
+                Module1.PartData().BuildInst(2).sDescription
+            Next
+
+        End If
+        'module
+        Dim iModule = xlWorkSheet.Cells(18, 3)
+        If IsNumeric(iModule) = True Then
+            Module1.BuildInst_OneLine()
+            Module1.BuildInst(0) = iModule
+        Else
+            MsgBox("Please it is not a number at Module Cell")
+        End If
+
+        Dim iPin = xlWorkSheet.Cells(18, 4)
+        If IsNumeric(iPin) = True Then
+            Module1.BuildInst_OneLine()
+            Module1.BuildInst(0) = iPin
+        Else
+            MsgBox("Please it is not a number at Pin Cell")
+        End If
+        Module1.BuildInst_OneLine()
+        Dim iTrigger = xlWorkSheet.Cells(17, 6)
+        If IsNumeric(iTrigger) = True Then
+            Module1.BuildInst_OneLine()
+            Module1.BuildInst(0) = iTrigger
+        Else
+            MsgBox("Please it is not a number at Trigger Cell")
+        End If
+
+        Dim sColor = xlWorkSheet.Cells(18, 5)
+        If sColor.ToString = "Red" Or sColor.ToString = "Black" Then
+            Module1.BuildInst_OneLine()
+            Module1.BuildInst(0) = sColor
+        Else
+            MsgBox("Invalid Color")
+        End If
+
+        ' Close Connection
+
+        xlWorkBook.Close()
+        xlApp.Quit()
+
+    End Sub
+
+    Private Sub releaseObject(ByVal obj As Object)
+        Try
+            System.Runtime.InteropServices.Marshal.ReleaseComObject(obj)
+            obj = Nothing
+        Catch ex As Exception
+            obj = Nothing
+        Finally
+            GC.Collect()
+        End Try
+    End Sub
+End Class
